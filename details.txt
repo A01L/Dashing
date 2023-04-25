@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------------
+                                  Details project
+--------------------------------------------------------------------------------------
+Name: D4E(Dashboard for Everyone)
+Developer: Just Adil
+Product manager: Vanessa
+Designed by: JCS(Just a Code Space)
+Start date: 22.08.2022
+Category: Manageming, Administration, Panel, Dashboard, Organization, soft for worker.
+Assets: PHP, ADF, JS, Jquery, HTML5, CSS, Bootstrap.
+Require: Apache, MySQL, 5gb space in server or host, domain, ssl certeficate.
+---------------------------------------------------------------------------------------
