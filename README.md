@@ -1,2 +1,2 @@
 # Dashing
-Dashing - system for control finance Game Club and time management. DClient app in file "/my", system for users and customer commercial company.
+Dashing is a system for controlling the finances of the gaming club and time management. The DClient application in the "/my" file, a system for users and a commercial customer company.
